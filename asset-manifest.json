@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Weather_Tracker_API/static/css/main.ed4ab3d7.chunk.css",
+    "main.js": "/Weather_Tracker_API/static/js/main.75ca260e.chunk.js",
+    "main.js.map": "/Weather_Tracker_API/static/js/main.75ca260e.chunk.js.map",
+    "runtime-main.js": "/Weather_Tracker_API/static/js/runtime-main.95336485.js",
+    "runtime-main.js.map": "/Weather_Tracker_API/static/js/runtime-main.95336485.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Weather_Tracker_API/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.92537d9a.chunk.js": "/Weather_Tracker_API/static/js/2.92537d9a.chunk.js",
+    "static/js/2.92537d9a.chunk.js.map": "/Weather_Tracker_API/static/js/2.92537d9a.chunk.js.map",
+    "static/js/3.e604118d.chunk.js": "/Weather_Tracker_API/static/js/3.e604118d.chunk.js",
+    "static/js/3.e604118d.chunk.js.map": "/Weather_Tracker_API/static/js/3.e604118d.chunk.js.map",
+    "index.html": "/Weather_Tracker_API/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Weather_Tracker_API/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.ed4ab3d7.chunk.css.map": "/Weather_Tracker_API/static/css/main.ed4ab3d7.chunk.css.map",
+    "static/js/2.92537d9a.chunk.js.LICENSE.txt": "/Weather_Tracker_API/static/js/2.92537d9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95336485.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.92537d9a.chunk.js",
+    "static/css/main.ed4ab3d7.chunk.css",
+    "static/js/main.75ca260e.chunk.js"
+  ]
+}
